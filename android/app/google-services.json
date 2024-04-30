@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "396302894264",
+    "project_id": "pedro-examen-flutter",
+    "storage_bucket": "pedro-examen-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396302894264:android:1f2ffb56d34033c4e8a04d",
+        "android_client_info": {
+          "package_name": "com.example.pedro_examen_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzCHR-BdBMF3ZYzydUbhdsjLnXtTcpZ-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
