@@ -1,16 +1,6 @@
 # pedro_examen_flutter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Desarrollar una app que permita la recepcion de una notificación push. 
+1. Enviar el repositorio.
+2. Enviar el apk
+3. Una vez que se confirme q se instalo correctamente la app en el dispositivo del docente, enviar el mensaje desde firebase para validar q la notificacion push esta funcionando correctamente.
